@@ -22,7 +22,6 @@ title: contact
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
-
 <ul class="icons">
 
 	{% if site.twitter_url %}
