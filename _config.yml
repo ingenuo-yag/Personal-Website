@@ -1,7 +1,7 @@
 # Site settings
 title: Yash Agrawal
 email: yashagmoguls@gmail.com
-description: Undergrad at MIT, Manipal\n Expected 2021
+description: Undergrad at MIT, Manipal
 baseurl: "/personal-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
