@@ -24,7 +24,7 @@ title: contact
 </form>
 <ul class="icons">
 
-	{% if site.twitter_url %}
+	<!---> {% if site.twitter_url %} <--!>
 				<li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
 				{% if site.googleplus_url %}
