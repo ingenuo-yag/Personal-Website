@@ -1,7 +1,21 @@
 ---
-title: work
+title: Projects
 image: pic02.jpg
 ---
-Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
+FireBot | Platform: C# and .NET. | Duration: 2 Months
+▪ Firebot is a chatbot which can be used to detect forest fires and alert the relevant
+authorities to take action.
+▪ On identifying such fires a bot will send an alert to someone in charge.
+▪ The bot is hosted on Azure and integrated with NLP Luis Cognitive Service.
+▪ Furthermore, the bot will be built with Microsoft Bot Framework in C# and .NET.
+▪ Made as internet moguls is a digital hospitality company giving e-commerce and
+digital solutions to hotels and travel companies from across the world.
+▪ Developed a ML Model using Tensorflow for Python and trained it with 5,000 images.
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.
+S-Pilled | Platform: Objective C and Arduino | Duration: 1 Month
+▪ A Wrist Band (Using Arduino Nano Microcontroller) that acts as a pocket for pills
+embodied with Touch Sensors to detect when the band needs to be filled again.
+▪ Also, provides Vibration and LED Feedback System to remind you to take pills and
+reminders for refilling the band. Built for Wearable Device Hackathon.
+▪ Handled all engineering software and hardware. Presented the demo to a team of
+professionals from top colleges of India.
