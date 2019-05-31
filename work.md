@@ -24,7 +24,7 @@ title: contact
 </form>
 <ul class="icons">
 
-	{% if site.twitter_url %}
+				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
 				{% if site.googleplus_url %}
@@ -43,7 +43,7 @@ title: contact
 				<li><a href="{{ site.gitlab_url }}" class="icon fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
 				{% endif %}
 				{% if site.github_url %}
-				<li><a href="{{ site.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				<li><a href="github.com/ingenuo-yag" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
 				{% endif %}
 				{% if site.slack_url %}
 				<li><a href="{{ site.slack_url }}" class="icon fa-slack" target="_blank"><span class="label">Slack</span></a></li>
